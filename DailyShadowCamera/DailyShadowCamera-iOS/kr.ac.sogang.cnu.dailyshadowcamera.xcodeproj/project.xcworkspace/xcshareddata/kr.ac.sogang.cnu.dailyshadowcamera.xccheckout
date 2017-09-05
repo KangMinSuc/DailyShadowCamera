@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5061C4BD-E175-4488-B486-93AD4C462352</string>
+	<key>IDESourceControlProjectName</key>
+	<string>kr.ac.sogang.cnu.dailyshadowcamera</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DE238F20CBFEC6E2F7B44A9BD240791E1F2D6F88</key>
+		<string>github.com:minhoryang/DailyShadowCamera-iOS.git</string>
+		<key>ECC5C6E767C4B73777AB2CE30159CC8E2A8CED11</key>
+		<string>github.com:Kjuly/ALAssetsLibrary-CustomPhotoAlbum.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>kr.ac.sogang.cnu.dailyshadowcamera.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DE238F20CBFEC6E2F7B44A9BD240791E1F2D6F88</key>
+		<string>../..</string>
+		<key>ECC5C6E767C4B73777AB2CE30159CC8E2A8CED11</key>
+		<string>../..kr.ac.sogang.cnu.dailyshadowcamera/ALAssetsLibrary-CustomPhotoAlbum</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:minhoryang/DailyShadowCamera-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DE238F20CBFEC6E2F7B44A9BD240791E1F2D6F88</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECC5C6E767C4B73777AB2CE30159CC8E2A8CED11</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ALAssetsLibrary-CustomPhotoAlbum</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DE238F20CBFEC6E2F7B44A9BD240791E1F2D6F88</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DailyShadowCamera-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
